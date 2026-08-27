@@ -1,0 +1,6 @@
+{
+  "name": "Trading Simulator",
+  "description": "Real-time market trading simulator with live price tracking, interactive technical charts, portfolio analytics, and real market order execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
